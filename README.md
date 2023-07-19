@@ -3,3 +3,5 @@ Its a feedback management system where the user enters its name, email, feedback
 It also has a feature of light and dark theme
 And contains admin login through which one can view and delete the feedback
 With proper validations
+with a code to create admin
+Also contains a video of the implementation
